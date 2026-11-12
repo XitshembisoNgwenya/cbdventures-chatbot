@@ -1,7 +1,7 @@
 > **Earlier standalone version**
 >
 > This repository contains the standalone CBDventures assistant.
-> The current integrated project is [CBDventures Final Project](https://github.com/XitshembisoNgwenya/cbdventures-final-project).
+> The current integrated project is [CBDventures](https://github.com/XitshembisoNgwenya/cbdventures).
 
 # CBD Ventures AI Assistance
 
