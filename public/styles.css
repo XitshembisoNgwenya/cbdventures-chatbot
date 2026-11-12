@@ -238,3 +238,6 @@ body { background: #edf2f5; }
 
 .app-nav button:disabled{opacity:.38;cursor:default;pointer-events:none;background:transparent;color:#8895a1;border-top-color:transparent;}
 .app-nav button:disabled:hover{background:transparent;}
+
+.brand .brand-nxg-logo{display:block;flex:none;width:36px;height:36px;object-fit:contain;margin-left:10px;border-radius:4px;background:#fff}
+@media(max-width:380px){.brand .brand-nxg-logo{width:30px;height:30px;margin-left:6px}}
