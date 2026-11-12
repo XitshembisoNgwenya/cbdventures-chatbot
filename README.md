@@ -3,6 +3,11 @@
 > This repository contains the standalone CBDventures assistant.
 > The current integrated project is [CBDventures](https://github.com/XitshembisoNgwenya/cbdventures).
 
+<div align="center">
+  <img src="public/images/nxg-logo.png" alt="NxG Technologies logo" width="120">
+  <p><strong>A project by NxG Technologies</strong></p>
+</div>
+
 # CBD Ventures AI Assistance ChatBot
 
 **A Smart Student Companion for Pretoria CBD**
