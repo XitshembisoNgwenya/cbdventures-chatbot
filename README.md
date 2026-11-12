@@ -1,3 +1,8 @@
+> **Earlier standalone version**
+>
+> This repository contains the standalone CBDventures assistant.
+> The current integrated project is [CBDventures Final Project](https://github.com/XitshembisoNgwenya/cbdventures-final-project).
+
 # CBD Ventures AI Assistance
 
 **A Smart Student Companion for Pretoria CBD**
